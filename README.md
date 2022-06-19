@@ -19,10 +19,6 @@ Checkout Brad's video tutorial [here](https://www.youtube.com/watch?v=w7ejDZ8SWv
 - React Testing Library 
 - JSON-server
 
-## See it live
-
-- [heroku deployment]()
-
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
