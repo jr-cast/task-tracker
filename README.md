@@ -1,6 +1,6 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # Task Tracker 
+
+![task tracker](./cover.png)
 
 > A Single Page App (SPA) following Brad Traversy React Crash Course that make use of create-react-app and react router and allows users to:
 
